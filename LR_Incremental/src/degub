@@ -1,0 +1,16 @@
+Configuration: core-default.xml, core-site.xml
+hdfs://glisco.multicare.org/user/hadoop
+hdfs://glisco.multicare.org/user/hadoop
+hdfs://glisco.multicare.org
+target: 9
+Train instances 120237
+J: 0 tmp_words[i] 30148
+J: 1 tmp_words[i] 2013-09-01 00:00:00.000
+J: 2 tmp_words[i] 48
+J: 3 tmp_words[i] 8
+J: 4 tmp_words[i] 1
+J: 5 tmp_words[i] 1
+J: 6 tmp_words[i] 0
+J: 7 tmp_words[i] 0
+J: 8 tmp_words[i] 0
+J: 9 tmp_words[i] 0

@@ -1,0 +1,10 @@
+@attribute EpicDepartmentID w
+@attribute DayOfTwoWeekNBR w
+@attribute DayOfWeekNBR w
+@attribute PtsWaitForClinAccNBR w
+@attribute PtsSeenForClinAccNBR w
+@attribute PtsWaitCurrentMinTimeForClinAccNBR w
+@attribute PtsWaitCurrentMaxTimeForClinAccNBR w
+@attribute PtsSeenMinTimeForClinAccNBR w
+@attribute PtsSeenMaxTimeForClinAccNBR w
+@attribute WaitLessThanLBL w

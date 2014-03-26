@@ -1,0 +1,16 @@
+**************************************************************************************************************************************************************************
+
+	KEEL SOFTWARE TOOL - Open Source - V2013-07-03
+
+**************************************************************************************************************************************************************************
+
+KEEL Version 2013-07-03 is available now.
+
+New features (from v2013-04-01):
+
+	1. Added a new visualization method (Fingrams) for Fuzzy Rule Based Association Rules Methods.
+	
+	1. Updated all the Fuzzy Rule Based Association Rules Methods so that they can be visualized with the Fingrams method.
+	
+	3. Deleted the 	Genetic-fuzzy mining approach for items with multiple minimum supports (GeneticFuzzyAprioriMS-A) algorithm in the Association Rules section.
+
